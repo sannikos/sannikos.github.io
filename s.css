@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(240, 243, 246);
+  }
+
+  h1 {
+    text-align: center;
+
+    color: rgb(40, 44, 163);
+
+    text-decoration-line: underline overline;
+    text-decoration-color: rgb(238, 44, 44);
+
+  }
