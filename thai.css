@@ -49,25 +49,7 @@ h1 {
     margin-left: 60px;
 }
 
-button {
-    width: 180px;
-    color: #000;
-    font-size: 12px;
-    padding: 12px;
-    background: "fff";
-    border: 0;
-    border-radius: 20px;
-    outline: none;
-    margin-top: 20px;
-}
 
-.btn:hover{
-    background-color: transparent;
-    color: #fff;
-    border: 2px solid white;
- 
-
-}
 
 .card {
     width: 200px;
@@ -114,14 +96,18 @@ h4{
 
  button{
     width: 180px;
-    color: #000;
+    color: #fff;
     font-size: 12px;
     padding: 12px 0;
-    background-color: #fff;
+    background-color: transparent;
     border: 0;
     border-radius: 20px;
     outline: none;
     margin-left: 60px;
-    
-    
+     border: 2px solid white;
  }
+
+.btn:hover{
+    background-color: #fff;
+    color: #000;
+}
