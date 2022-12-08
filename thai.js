@@ -1,4 +1,3 @@
-function showMap(link) {
-    location.href= link.value;
+function showMap(link) {   
     window.open(link.value);
 }
